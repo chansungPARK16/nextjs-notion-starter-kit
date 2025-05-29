@@ -9,16 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lamanus\' Blog',
-  domain: 'blog.lamanus.kr',
-  author: 'Lamanus',
+  name: 'Moast Blog',
+  domain: 'astarcorp.notion.site',
+  author: 'Park',
 
   // open graph metadata (optional)
-  description: 'Lamanus\' Blog',
+  description: 'Moast Blog',
 
   // social usernames (optional)
   // twitter: '#',
-  github: 'daeho-ro',
+  // github: 'daeho-ro',
   // linkedin: '#',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
