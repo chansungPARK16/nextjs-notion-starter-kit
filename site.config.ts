@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Moast Blog',
-  domain: 'astarcorp.notion.site',
+  domain: 'nextjs-notion-starter-git-fdfb0b-chansung-astarcorpcos-projects.vercel.app',
   author: 'Park',
 
   // open graph metadata (optional)
