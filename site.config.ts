@@ -25,3 +25,4 @@ export default siteConfig({
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
   
 }
+)
