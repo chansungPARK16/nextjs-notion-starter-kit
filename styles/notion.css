@@ -45,6 +45,9 @@
 .notion-nav-header-rhs {
   gap: 0.5rem;
 }
+.notion-header {
+  display: none;
+}
 
 .notion-gallery-grid {
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
