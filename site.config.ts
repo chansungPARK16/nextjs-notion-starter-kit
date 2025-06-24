@@ -19,10 +19,10 @@ export default siteConfig({
   // social usernames (optional)
   // twitter: '#',
   // github: 'daeho-ro',
-  linkedin: 'jian-kim-367802368',
+  linkedin: '모스트-moast',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
-  
+
 }
 )
