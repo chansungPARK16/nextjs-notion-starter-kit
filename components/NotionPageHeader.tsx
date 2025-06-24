@@ -9,9 +9,6 @@ export function NotionPageHeader({
 }: {
   block: types.CollectionViewPageBlock | types.PageBlock
 }) {
-  if (navigationStyle === 'default') {
-    return <Header block={block} />
-  }
 
   return <header></header>
 }
